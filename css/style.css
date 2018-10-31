@@ -74,11 +74,3 @@ header a {
   border: 5px #ccc solid;
   padding: 1px;
 }
-
-footer {
-	text-align: right;
-	background: #fff;
-	font-size: 0.8em;
-}
-
-/* Write all remaining styles here */
