@@ -30,42 +30,44 @@ h1 {
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
-
-h2 {
+ h2 {
 	color: rgb(111,127,122);
 	font-size: 2em;
 }
-
-p {
+ p  {
 	color: #555;
 	font-size: 1em;
 	margin: 0 0 20px 0;
 }
-
+ /*//// SECTION STYLES /////*/
 header a {
 	color: rgb(153,173,166);
 	text-decoration: none;
 }
-
-header a:hover {
+ header a:hover {
 	color: rgb(112,127,122);
 }
-
-#featured img {
+ #featured img {
 	border: 5px rgb(152,173,166) solid;
 }
-
-#featured a {
+ #featured a {
 	color: #1783bb;
 	text-decoration: none;
 }
-
-#featured a:hover {
+ #featured a:hover {
 	text-decoration: underline;
 }
-
-#press {
+ #press {
 	margin-bottom: 20px;
+}
+ #press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
+ footer {
+	text-align: right;
+	background: #fff;
+	font-size: 0.8em;
 }
 
 #press img {
